@@ -1,4 +1,4 @@
-package pagoEstudiante;
+ package pagoEstudiante;
 
 import java.io.ObjectInputStream.GetField;
 
